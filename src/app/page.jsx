@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState, useMemo, useEffect } from "react";
-import { ThemeToggle } from "@/components/ThemeToggle";
+import { ThemeToggle } from "@/components/themeToggle";
 import {
   LineChart,
   Line,
@@ -408,3 +408,5 @@ export default function OpportunityCalculator() {
     </div>
   );
 }
+
+// it's been an adventure
